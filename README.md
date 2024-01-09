@@ -3,16 +3,24 @@ This repo is where the Ingnition Northwest Tech Committee does planning and
 project management within view of and in collaboration with the entire INW
 community.
 
+## For our Customers
+> [!NOTE]
+> If you're a customer of the Tech Committee you can ignore the minutiae below
+> and either open an Issue (Issues tab at the top of this page) or just plain
+> email us. Make sure to not put anything sensitive in the issues&mdash;they're
+> visible to the whole community.
+
 ## Our RFC (Request For Comments) process
 The Tech Committee makes small decisions about technology policy or
 infrastructure after one or two conversations at our regular monthly
 Tech Committee Meeting.
 
 For major changes to policy or infrastructure, where the decision is complex,
-has many stakeholders, or involves substantial resources, we explore ideas and
-refine proposals using the RFC process that has served as the collaborative
-technical foundation of the (literal, capital I) Internet, and is implemented
-today in some form today by almost every significant technology community.
+brings long term impacts, has many stakeholders, or requires substantial
+resources, we explore ideas and refine proposals using the RFC process that
+has served as the collaborative technical foundation of the (literal, capital
+I) Internet since the beginning, and is implemented today in some form today
+by almost every significant technology community.
 
 **If you need help with any of this, ask around on the Tech Committee.**
 
