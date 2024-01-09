@@ -47,4 +47,4 @@ by almost every significant technology community.
     live on in the Pull Request history for our future selves and our
     successors to refer to, and possibly implement at the right moment!
 
-[Tech Committee repo]: https://github.com/ingitionnw/tech-committee
+[Tech Committee repo]: https://github.com/ignitionnw/tech-committee
