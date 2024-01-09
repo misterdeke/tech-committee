@@ -9,8 +9,9 @@ community.
 > and either open an Issue (Issues tab at the top of this page) or just plain
 > email us.
 > 
-> **Important:** Make sure to not put anything sensitive in an issues here&mdash;
-> they're visible to the whole community. Email is preferred in that case.
+> **Important:** Make sure to not put anything sensitive in an issues
+> here&mdash; they're visible to the whole community. Email is preferred in
+> that case.
 
 ## Our RFC (Request For Comments) process
 The Tech Committee makes small decisions about technology policy or
@@ -19,18 +20,19 @@ Tech Committee Meeting.
 
 For major changes to policy or infrastructure, where the decision is complex,
 brings long term impacts, has many stakeholders, or requires substantial
-resources, we explore ideas and refine proposals using the RFC process that
-has served as the collaborative technical foundation of the (literal, capital
-I) Internet since the beginning, and is implemented today in some form today
-by almost every significant technology community.
+resources, we explore ideas and refine proposals using the RFC process that has
+served as the collaborative technical foundation of the (literal, capital I)
+Internet since the beginning, and is implemented today in some form today by
+almost every significant technology community.
 
 **If you need help with any of this, ask around on the Tech Committee.**
 
   - Fork the [Tech Committee repo]
   - Copy `0000-template.md` to `text/0000-my-proposal.md` (where "my-proposal"
     is descriptive). Don't assign an RFC number yet; this happens shortly.
-  - Fill in the RFC. The target audience is not just the current Tech Committee&mdash;
-    it includes the entire INW community as well as our current and future selves.
+  - Fill in the RFC. The target audience is not just the current Tech
+    Committee&mdash; it includes the entire INW community as well as our
+    current and future selves.
   - Submit a pull request.
   - Now that your RFC has an open pull request, use the issue number of the PR
     to rename your copy of the RFC file from the `0000-` prefix to that PR

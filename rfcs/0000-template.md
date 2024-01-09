@@ -64,12 +64,12 @@ Are there any other accessibility considerations with this proposal?
 
 # Sustainability
 
-What technologies (platforms, licenses, subscriptions, dependencies, all of them!)
-does this depend on? Why are we confident that this is a good long term bet? For
-that matter, how long is "long term"? 🙃
+What technologies (platforms, licenses, subscriptions, dependencies, all of
+them!) does this depend on? Why are we confident that this is a good long term
+bet? For that matter, how long is "long term"? 🙃
 
-What happens as the organization turns over? How will we ensure that newcomers will
-be able to continue getting value out of this?
+What happens as the organization turns over? How will we ensure that newcomers
+will be able to continue getting value out of this?
 
 What skills (not just technical) will be required to continue getting value
 out of this proposal over its aspirational lifetime?
@@ -81,8 +81,8 @@ What happens when this proposal inevitably becomes obsolete?
 What would we lose if it got shut down with no notice? How would we recover?
 
 How do we voluntarily wind down this proposal if we later learn that it wasn't
-the right idea? Is there an obvious, well-supported, and convenient way for us to
-export and preserve our data and other organizational assets that we have
+the right idea? Is there an obvious, well-supported, and convenient way for us
+to export and preserve our data and other organizational assets that we have
 accumulated under this proposal?
 
 # Unresolved questions
