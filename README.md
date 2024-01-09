@@ -7,8 +7,10 @@ community.
 > [!NOTE]
 > If you're a customer of the Tech Committee you can ignore the minutiae below
 > and either open an Issue (Issues tab at the top of this page) or just plain
-> email us. Make sure to not put anything sensitive in the issues&mdash;they're
-> visible to the whole community.
+> email us.
+> 
+> **Important:** Make sure to not put anything sensitive in an issues here&mdash;
+> they're visible to the whole community. Email is preferred in that case.
 
 ## Our RFC (Request For Comments) process
 The Tech Committee makes small decisions about technology policy or
@@ -27,11 +29,12 @@ by almost every significant technology community.
   - Fork the [Tech Committee repo]
   - Copy `0000-template.md` to `text/0000-my-proposal.md` (where "my-proposal"
     is descriptive). Don't assign an RFC number yet; this happens shortly.
-  - Fill in the RFC. This is not just for the current Tech Committee, but for
-    the community, as well as our current and future selves.
+  - Fill in the RFC. The target audience is not just the current Tech Committee&mdash;
+    it includes the entire INW community as well as our current and future selves.
   - Submit a pull request.
   - Now that your RFC has an open pull request, use the issue number of the PR
-    to move your file from the `0000-` prefix to that PR number.
+    to rename your copy of the RFC file from the `0000-` prefix to that PR
+    number.
   - Use the Pull Request process to discuss and refine the proposal, and
     answer any questions that may arise.
   - With the Tech Committee, work to determine whether there are stakeholders
