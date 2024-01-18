@@ -1,1 +1,61 @@
+- Start Date: 2024-01-17
+- RFC PR: (leave this empty)
 
+# Summary
+
+Update our FCC license to more closely match our use of handheld UHF radios and repeater.
+
+# Motivation
+
+We are currently violating two laws:
+
+Using our radios north of Line A
+Using a repeater without a license
+
+# Detailed Proposal
+
+I recommend we ammend our FCC license to bring us into compliance.
+
+# Drawbacks
+
+This will cost $230.
+
+# Alternatives
+
+We could consider other frequency coordinatrs. I contacted four from [this list](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/industrial-business/industrial-business-licensing).
+
+
+# Prior Art
+
+I don't know how other orgs have handled these issues.
+
+# Implementation Plan
+
+I have contacted the FCC and learned that in order to approve us to operate north of Line A we must work with a frequency coordinator. I have contacted multiple frequency coordinators and found one who has offered to have the license amended for $230. He says he is confident we will be approved to operate north of line a at 5 watts, and we may be able to operate the repeater at a higher power if Canada doesn't object.
+
+# Accessibility
+
+This change will be transparent to users of our radios. They will continue to operate as before.
+
+# Sustainability
+
+Creating a relationship with a frequency coordinator will make future changes easier.
+
+# Sunset
+
+Our current FCC license expires 10/10/2027. I don't know whether the process of amending the license will extend that. License expiration would be a natural time to reconsider whether the license is a good fit for our needs. 
+
+# Unresolved questions
+
+Is my currently selected vendor, Forest Industries Telecommunications, the best fit for us?
+
+Forest Industries Telecommunications (FIT)
+1565 Oak Street
+Eugene, Oregon 97401
+Phone: Main OfficEmail: 541-485-8441
+Phone: Chicago: 888-583-2-WAY
+Phone: Dallas: 888-342-2-WAY
+Phone: Los Angeles 888-355-2-WAY
+Phone: WASH. D.C. 888-395-2-WAY
+Fax: 541-485-7556
+Email: [license@landmobile.com](license@landmobile.com)
